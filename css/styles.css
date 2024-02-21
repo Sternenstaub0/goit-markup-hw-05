@@ -694,6 +694,12 @@ img {
 
 .privacy-link {
   color: #4d5ae5;
+  text-decoration-line: underline;
+}
+
+.submit-button:hover,
+.submit-button:focus {
+  background-color: #404bbf;
 }
 
 .submit-button {
@@ -777,6 +783,11 @@ img {
   background-color: #4d5ae5;
   border: none;
   border-radius: 4px;
+}
+
+.subscribe-button:hover,
+.subscribe-button:focus {
+  background-color: #404bbf;
 }
 
 .subscribe-icon {
